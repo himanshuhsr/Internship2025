@@ -77,7 +77,7 @@ So it do not have any end tag.
 
 **Note:** HTML tags are not case sensitive.
 
-e.g, You can use <P> or <p>
+e.g, You can use ```<P>``` or ```<p>```
 
 My recommendation is always use lowercase characters for your HTML elements.
 
